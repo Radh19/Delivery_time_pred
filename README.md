@@ -61,7 +61,6 @@ import matplotlib.pyplot as plt
 
 plt.figure(figsize=(8,6))
 plt.scatter(y_test, y_pred, color='blue', alpha=0.5)
-plt.plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], linestyle='--', color='red', lw=2)  
 plt.xlabel("Actual Delivery Time (minutes)")
 plt.ylabel("Predicted Delivery Time (minutes)")
 plt.title("Actual vs Predicted Delivery Time")
