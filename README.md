@@ -1,4 +1,4 @@
-# Delivery_time_pred
+# Order_Delivery_time_prediction
 
 ## 📌 Overview
 This project aims to predict food delivery time based on factors like restaurant prep time, delivery distance, weather conditions, and traffic levels. The model uses Linear Regression to estimate delivery times and can help optimize food delivery operations.
@@ -42,6 +42,13 @@ The dataset is sourced from [Kaggle: Food Delivery Time Prediction](https://www.
 
 ---
 
+## 📝 Future Improvements
+🚀 Hyperparameter tuning using GridSearchCV
+🚀 Feature Engineering (Extracting new time-based or geographic features)
+🚀 Try Advanced Models (Random Forest, XGBoost, or Deep Learning)
+🚀 Deploy as a Web App using Flask or Streamlit
+
+
 ## 📉 Visualizations
 
 ### **1️⃣ Actual vs Predicted Delivery Time**
@@ -58,6 +65,7 @@ plt.ylabel("Predicted Delivery Time (minutes)")
 plt.title("Actual vs Predicted Delivery Time")
 plt.grid(True)
 plt.show()
+
 
 
 
