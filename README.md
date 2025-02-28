@@ -44,10 +44,10 @@ The dataset is sourced from [Kaggle: Food Delivery Time Prediction](https://www.
 
 ## 📝 Future Improvements
 
-- 🚀 **Hyperparameter tuning** using `GridSearchCV`  
-- 🚀 **Feature Engineering** (Extracting new time-based or geographic features)  
-- 🚀 **Try Advanced Models** (Random Forest, XGBoost, or Deep Learning)  
-- 🚀 **Deploy as a Web App** using **Flask or Streamlit** 
+ 🚀 **Hyperparameter tuning** using `GridSearchCV`  
+🚀 **Feature Engineering** (Extracting new time-based or geographic features)  
+🚀 **Try Advanced Models** (Random Forest, XGBoost, or Deep Learning)  
+🚀 **Deploy as a Web App** using **Flask or Streamlit** 
 
 ---
 
